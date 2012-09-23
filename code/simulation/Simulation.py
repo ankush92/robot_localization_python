@@ -1,3 +1,9 @@
+import sys
+
+sys.path.append("./grid")
+sys.path.append("./robot")
+sys.path.append("./map")
+
 from WorldGrid import WorldGrid
 from Robot import Robot
 from Tkinter import Tk
@@ -99,7 +105,6 @@ class Simulation:
 				if(self.worldMap.isWall(i,j)==False):
 					if(self.robot.mapProbabilities[i][j]>0):      
 						# 0 is black, 255 is white
-						print self.robot.mapProbabilities[i][j]
 						c = 125 - math.floor(self.robot.mapProbabilities[i][j]*125.0)
 						#c = 255 - int(self.robot.mapProbabilities[i][j]*255.0)
 						cstr = "#%02x%02x%02x" % (0,c,0)

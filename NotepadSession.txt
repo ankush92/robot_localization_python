@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="93" xOffset="0" scrollWidth="9701" startPos="2452" endPos="2452" selMode="0" lang="Python" encoding="-1" filename="C:\Users\gkaiser\Projects\robot_localization_python\code\simulation\Simulation.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="455" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Users\gkaiser\Projects\robot_localization_python\code\grid\GridBuilder.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="518" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Users\gkaiser\Projects\robot_localization_python\code\grid\SimpleGrid.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="518" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Users\gkaiser\Projects\robot_localization_python\code\grid\WorldGrid.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="9701" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Users\gkaiser\Projects\robot_localization_python\code\map\WorldBuilder.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="9701" startPos="65" endPos="65" selMode="0" lang="Python" encoding="-1" filename="C:\Users\gkaiser\Projects\robot_localization_python\code\run_simulation.py" />
+            <File firstVisibleLine="134" xOffset="0" scrollWidth="9701" startPos="4987" endPos="4992" selMode="0" lang="Python" encoding="-1" filename="C:\Users\gkaiser\Projects\robot_localization_python\code\robot\Robot.py" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
